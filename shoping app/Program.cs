@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 jaypal j = new jaypal();
 Console.WriteLine("Hello,welcome to shoping app");
 
-
+//testin puss
 j.name();
 j.mobileno();
 j.productname();
